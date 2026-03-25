@@ -1,7 +1,5 @@
 # 27SD Solver — Config Template
 
-Copy `template.json`, fill in your game settings, and send it back. I'll run the solve and send you the strategy file.
-
 ## How to fill it in
 
 Edit these fields to match your game:

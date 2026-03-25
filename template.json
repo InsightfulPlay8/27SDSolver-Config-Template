@@ -7,7 +7,7 @@
   "max_draw": 5,
   "heads_up": true,
   "no_limp": false,
-  "no_open_jam": false,
+  "auto_ai_spr": 0,
 
   "bet_sizes": {
     "ip_pre_raise": ["2.5bb"],

@@ -1,0 +1,23 @@
+{
+  "mode": "full_game",
+  "small_blind": 0.5,
+  "big_blind": 1.0,
+  "effective_stack": 20,
+  "ante": 0,
+  "max_draw": 5,
+  "heads_up": true,
+  "no_limp": false,
+  "no_open_jam": false,
+
+  "bet_sizes": {
+    "ip_pre_raise": ["2.5bb"],
+    "oop_pre_raise": ["7.5bb"],
+    "oop_pre_4bet": ["AI"],
+    "ip_pre_4bet": ["AI"],
+
+    "oop_post_bet": [0.33, 0.67, 1.0],
+    "oop_post_raise": [0.75, "AI"],
+    "ip_post_bet": [0.33, 0.67, 1.0],
+    "ip_post_raise": [0.75, "AI"]
+  }
+}
